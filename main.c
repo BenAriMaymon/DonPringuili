@@ -71,6 +71,7 @@ void ActionCode4(char** arrAllGuests, int* ionGuestCounter) {
 int main(void) {
     char** arrpszNames;
     int size = 0;
+
     char choice;
     printf("Welcome to the DonPringuili !\n");
     printf("Enter 1 to show the current waiting list \n");
